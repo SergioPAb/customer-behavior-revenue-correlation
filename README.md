@@ -1,4 +1,4 @@
-# 🛒 NovaRetail+ – Proyecto 7: Análisis de Factores de Comportamiento
+# 🛒 NovaRetail+ – Análisis de correlaciones: ¿qué comportamientos del cliente se asocian con el ingreso anual?
 
 Este repositorio contiene el análisis del **Proyecto 7** del curso, correspondiente al caso de **NovaRetail+**, una plataforma de comercio electrónico en Latinoamérica.
 
